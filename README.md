@@ -36,6 +36,7 @@
 ---
 
 **-MVP**
+
  CSV, Excel, and SQL ingestion
 
  Data cleaning with drop/mean/median
@@ -49,6 +50,7 @@
  Save cleaned data
 
 **-Coming Soon**
+
  Unit testing and CI setup
 
  Streamlit/Gradio UI
