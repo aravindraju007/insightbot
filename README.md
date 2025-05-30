@@ -1,10 +1,10 @@
-#  InsightBot
+#  InsightBot ✌️
 
 **_InsightBot** is an autonomous data assistant that automates the full lifecycle of data analysis — from ingestion and cleaning to statistical exploration and visualization. Built with Python and SQL, it's designed to streamline the work of analysts, scientists, and engineers by reducing repetitive tasks and delivering rapid insights.
 
 ---
 
-##  Features
+## Features
 
 - **_Data Ingestion**  
   Load data from CSV, Excel, or SQL databases (e.g., SQLite) with one command.
