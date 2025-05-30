@@ -6,19 +6,19 @@
 
 ## Features
 
-- **_Data Ingestion**  
+- **Data Ingestion**  
   Load data from CSV, Excel, or SQL databases (e.g., SQLite) with one command.
 
-- **_ Data Cleaning**  
+- **Data Cleaning**  
   Automatically handle missing values, remove duplicates, convert data types, and standardize column names.
 
-- **_Exploratory Data Analysis (EDA)**  
+- **Exploratory Data Analysis (EDA)**  
   View summary statistics, missing value reports, correlation matrices, and column metadata.
 
-- **_Visualizations**  
+- **Visualizations**  
   Auto-generated histograms, bar plots, box plots, correlation heatmaps, and pairplots.
 
-- **_ Export Options**  
+- **Export Options**  
   Save cleaned datasets to CSV for future use.
 
 ---
@@ -34,4 +34,29 @@
 - argparse (for CLI support)
 
 ---
+
+**-MVP**
+ CSV, Excel, and SQL ingestion
+
+ Data cleaning with drop/mean/median
+
+ Exploratory data stats
+
+ Basic visualizations
+
+ Command-line interface
+
+ Save cleaned data
+
+**-Coming Soon**
+ Unit testing and CI setup
+
+ Streamlit/Gradio UI
+
+ LLM-based natural language to SQL
+
+ Support for JSON and API-based data ingestion
+
+ PDF/HTML report generation
+
 
